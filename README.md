@@ -118,4 +118,3 @@ Grupo de Google [Chaos Community](https://groups.google.com/forum/#!forum/chaos-
 
 _Traducción al español de [Principles of Chaos Engineering](https://principlesofchaos.org/)
 por Rodrigo Julián Martín_
-
