@@ -17,16 +17,17 @@ resultados impredecibles. Estos resultados impredecibles, compuestos de eventos
 del mundo real raros pero disruptivos que afectan entornos de producción, hacen
 que estos sistemas distribuidos sean inherentemente caóticos.
 
-Necesitamos identificar las debilidades antes que se manifiesten en
-comportamientos aberrantes en todo el sistema. Las debilidades sistémicas pueden
-tomar forma de: repliegues incorrectos cuando un servicio no está disponible;
-tormentas de reintentos por tiempos de espera mal configurados; caídas cuando
-una dependencia derivada recibe demasiado tráfico: fallas en cascada cuando se
-pierde un punto único de fallo; etcétera. Debemos abordar las debilidades más
-significativas de manera proactiva, antes de que afecten a nuestros clientes en
-producción. Necesitamos una manera de gestionar el caos inherente a estos
-sistemas, aprovechar la flexibilidad y velocidad crecientes, y tener confianza
-en nuestros despliegues a producción a pesar de la complejidad que presentan.
+Necesitamos identificar las debilidades antes de que se manifiesten en
+comportamientos aberrantes en todo el sistema. Las debilidades sistémicas
+podrían tomar la forma de: repliegues incorrectos cuando un servicio no está
+disponible; tormentas de reintentos por tiempos de espera mal configurados;
+interrupciones cuando una dependencia derivada recibe demasiado tráfico: fallas
+en cascada cuando se pierde un punto único de fallo; Etc. Debemos abordar las
+debilidades más significativas de manera proactiva, antes de que afecten a
+nuestros clientes en producción. Necesitamos una manera de gestionar el caos
+inherente a estos sistemas, aprovechar la flexibilidad y la velocidad
+crecientes, y tener confianza en nuestros despliegues a producción a pesar de la
+complejidad que presentan.
 
 Un enfoque empírico, basado en sistemas aborda el caos en los sistemas
 distribuidos a escala y genera la confianza en la capacidad de estos sistemas
@@ -40,7 +41,7 @@ escala, se puede pensar en la Ingeniería del Caos como la facilitación de
 experimentos para descubrir debilidades sistémicas. Estos experimentos siguen
 cuatro pasos:
 
-1. Comenzar definiendo un 'estado estacionario' como una salida mensurable de un
+1. Comenzar definiendo un 'estado estacionario' como una salida medible de un
    sistema que indique un comportamiento normal.
 2. Hipotetizar que este estado estacionario continuará tanto en el grupo de
    control como en el grupo experimental.
