@@ -1,7 +1,7 @@
 # Principios de la Ingeniería del Caos
 Última actualización: mayo de 2018
 
-_La ingeniería del caos es la disciplina de experimentar en un sistema, con la
+_La ingeniería del caos es la disciplina de experimentación en un sistema, con la
 finalidad de generar confianza en la capacidad de éste para resistir condiciones
 turbulentas en producción._
 
